@@ -1,4 +1,6 @@
-#!/home/zack/Desktop/IP-Checker/IP-Checker/venv/bin/python3
+#!/bin/sh
+'''exec' "/Users/zmckone/Desktop/Escaltion Dashboard/NexusTrace/venv/bin/python3.13" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys

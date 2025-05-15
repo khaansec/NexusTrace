@@ -1,0 +1,221 @@
+2025-05-15 08:43:29,072 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-15 08:43:29,072 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-15 08:43:29,073 - werkzeug - INFO -  * Restarting with stat
+2025-05-15 08:43:29,574 - werkzeug - WARNING -  * Debugger is active!
+2025-05-15 08:43:29,588 - werkzeug - INFO -  * Debugger PIN: 289-773-740
+2025-05-15 08:43:33,118 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:43:33] "[33mGET / HTTP/1.1[0m" 404 -
+2025-05-15 08:43:33,316 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:43:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-15 08:44:17,825 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-15 08:44:17,826 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-15 08:44:17,826 - werkzeug - INFO -  * Restarting with stat
+2025-05-15 08:44:18,346 - werkzeug - WARNING -  * Debugger is active!
+2025-05-15 08:44:18,359 - werkzeug - INFO -  * Debugger PIN: 289-773-740
+2025-05-15 08:44:21,401 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:44:21] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-15 08:44:21,426 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:44:21] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-05-15 08:44:21,427 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:44:21] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-05-15 08:44:21,463 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:44:21] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-05-15 08:44:21,500 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:44:21] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-05-15 08:44:22,261 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:44:22] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-15 08:44:22,273 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:44:22] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-05-15 08:44:22,273 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:44:22] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-05-15 08:44:22,296 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:44:22] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-05-15 08:44:22,329 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:44:22] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-05-15 08:46:16,310 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-15 08:46:16,310 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-15 08:46:16,310 - werkzeug - INFO -  * Restarting with stat
+2025-05-15 08:46:16,841 - werkzeug - WARNING -  * Debugger is active!
+2025-05-15 08:46:16,853 - werkzeug - INFO -  * Debugger PIN: 289-773-740
+2025-05-15 08:46:18,248 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:46:18] "GET / HTTP/1.1" 200 -
+2025-05-15 08:46:18,289 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:46:18] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-05-15 08:46:18,292 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:46:18] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-05-15 08:46:18,580 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:46:18] "[33mGET /static/favicon.svg HTTP/1.1[0m" 404 -
+2025-05-15 08:46:20,719 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:46:20] "GET /ip HTTP/1.1" 200 -
+2025-05-15 08:46:20,750 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:46:20] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-15 08:46:20,759 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:46:20] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-05-15 08:46:23,584 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:46:23] "[33mPOST /check_ip HTTP/1.1[0m" 404 -
+2025-05-15 08:46:26,074 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:46:26] "[33mPOST /check_ip HTTP/1.1[0m" 404 -
+2025-05-15 08:46:27,591 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:46:27] "GET /domain HTTP/1.1" 200 -
+2025-05-15 08:46:27,623 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:46:27] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-15 08:46:27,633 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:46:27] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-05-15 08:46:32,715 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:46:32] "[33mPOST /check_domain HTTP/1.1[0m" 404 -
+2025-05-15 08:46:33,284 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:46:33] "[33mPOST /check_domain HTTP/1.1[0m" 404 -
+2025-05-15 08:46:33,670 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:46:33] "[33mPOST /check_domain HTTP/1.1[0m" 404 -
+2025-05-15 08:46:33,927 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:46:33] "[33mPOST /check_domain HTTP/1.1[0m" 404 -
+2025-05-15 08:46:34,233 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:46:34] "[33mPOST /check_domain HTTP/1.1[0m" 404 -
+2025-05-15 08:46:35,301 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:46:35] "GET / HTTP/1.1" 200 -
+2025-05-15 08:46:35,322 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:46:35] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-15 08:46:35,328 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:46:35] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-05-15 08:48:34,918 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-15 08:48:34,918 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-15 08:48:34,919 - werkzeug - INFO -  * Restarting with stat
+2025-05-15 08:48:35,455 - werkzeug - WARNING -  * Debugger is active!
+2025-05-15 08:48:35,472 - werkzeug - INFO -  * Debugger PIN: 289-773-740
+2025-05-15 08:48:37,629 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:48:37] "GET / HTTP/1.1" 200 -
+2025-05-15 08:48:37,662 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:48:37] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-05-15 08:48:37,662 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:48:37] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-15 08:48:39,271 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:48:39] "GET /ip HTTP/1.1" 200 -
+2025-05-15 08:48:39,286 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:48:39] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-15 08:48:39,286 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:48:39] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-05-15 08:48:42,566 - app.services.ip_service - WARNING - VPNapi.io API key not configured
+2025-05-15 08:48:42,566 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 08:48:42] "[35m[1mPOST /api/ip/check_ip HTTP/1.1[0m" 500 -
+2025-05-15 09:05:21,038 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-15 09:05:21,039 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-15 09:05:21,039 - werkzeug - INFO -  * Restarting with stat
+2025-05-15 09:05:21,621 - werkzeug - WARNING -  * Debugger is active!
+2025-05-15 09:05:21,637 - werkzeug - INFO -  * Debugger PIN: 289-773-740
+2025-05-15 09:05:22,874 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:05:22] "GET / HTTP/1.1" 200 -
+2025-05-15 09:05:22,990 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:05:22] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-15 09:05:22,992 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:05:22] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-05-15 09:05:24,308 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:05:24] "GET /ip HTTP/1.1" 200 -
+2025-05-15 09:05:24,341 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:05:24] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-15 09:05:24,342 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:05:24] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-05-15 09:05:33,049 - app.services.ip_service - ERROR - AlienVault OTX error for section vpn: 404 Client Error: Not Found for url: https://otx.alienvault.com/api/v1/indicators/IPv4/1.1.1.1/vpn
+2025-05-15 09:05:33,566 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:05:33] "POST /api/ip/check_ip HTTP/1.1" 200 -
+2025-05-15 09:16:40,664 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:16:40] "GET / HTTP/1.1" 200 -
+2025-05-15 09:16:40,705 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:16:40] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-15 09:16:40,707 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:16:40] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-05-15 09:16:42,261 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:16:42] "GET /ip HTTP/1.1" 200 -
+2025-05-15 09:16:42,285 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:16:42] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-15 09:16:42,298 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:16:42] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-05-15 09:16:45,037 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:16:45] "POST /api/ip/check_ip HTTP/1.1" 200 -
+2025-05-15 09:16:49,273 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:16:49] "GET /ip HTTP/1.1" 200 -
+2025-05-15 09:16:49,286 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:16:49] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-15 09:16:49,286 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:16:49] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-05-15 09:20:45,369 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-15 09:20:45,370 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-15 09:20:45,371 - werkzeug - INFO -  * Restarting with stat
+2025-05-15 09:20:45,902 - werkzeug - WARNING -  * Debugger is active!
+2025-05-15 09:20:45,917 - werkzeug - INFO -  * Debugger PIN: 289-773-740
+2025-05-15 09:20:50,080 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:20:50] "GET / HTTP/1.1" 200 -
+2025-05-15 09:20:50,122 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:20:50] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-05-15 09:20:50,127 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:20:50] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-15 09:21:17,580 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:21:17] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-15 09:21:17,584 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:21:17] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-15 09:21:23,528 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:21:23] "GET /url HTTP/1.1" 200 -
+2025-05-15 09:21:23,556 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:21:23] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-15 09:21:23,569 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:21:23] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-05-15 09:21:23,569 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:21:23] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-15 09:21:43,573 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:21:43] "GET /ip HTTP/1.1" 200 -
+2025-05-15 09:21:43,605 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:21:43] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-15 09:21:43,611 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:21:43] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-15 09:21:43,616 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:21:43] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-05-15 09:21:48,714 - app.services.ip_service - ERROR - AlienVault OTX error for section vpn: 404 Client Error: Not Found for url: https://otx.alienvault.com/api/v1/indicators/IPv4/1.1.1.1/vpn
+2025-05-15 09:21:50,238 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:21:50] "POST /api/ip/check_ip HTTP/1.1" 200 -
+2025-05-15 09:41:47,450 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-15 09:41:47,451 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-15 09:41:47,452 - werkzeug - INFO -  * Restarting with stat
+2025-05-15 09:41:47,978 - werkzeug - WARNING -  * Debugger is active!
+2025-05-15 09:41:47,991 - werkzeug - INFO -  * Debugger PIN: 289-773-740
+2025-05-15 09:41:51,394 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:41:51] "GET / HTTP/1.1" 200 -
+2025-05-15 09:41:51,487 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:41:51] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-05-15 09:41:51,487 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:41:51] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-05-15 09:42:01,168 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:42:01] "GET /ip HTTP/1.1" 200 -
+2025-05-15 09:42:01,198 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:42:01] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-15 09:42:01,198 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:42:01] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-05-15 09:42:05,756 - app.services.ip_service - ERROR - AlienVault OTX error for section vpn: 404 Client Error: Not Found for url: https://otx.alienvault.com/api/v1/indicators/IPv4/1.1.1.1/vpn
+2025-05-15 09:42:07,268 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:42:07] "POST /api/ip/check_ip HTTP/1.1" 200 -
+2025-05-15 09:43:31,977 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-15 09:43:31,977 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-15 09:43:31,978 - werkzeug - INFO -  * Restarting with stat
+2025-05-15 09:43:32,576 - werkzeug - WARNING -  * Debugger is active!
+2025-05-15 09:43:32,589 - werkzeug - INFO -  * Debugger PIN: 289-773-740
+2025-05-15 09:43:34,335 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:43:34] "GET /ip HTTP/1.1" 200 -
+2025-05-15 09:43:34,383 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:43:34] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-05-15 09:43:34,384 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:43:34] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-05-15 09:43:38,804 - app.services.ip_service - ERROR - AlienVault OTX error for section vpn: 404 Client Error: Not Found for url: https://otx.alienvault.com/api/v1/indicators/IPv4/1.1.1.1/vpn
+2025-05-15 09:43:40,025 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:43:40] "POST /api/ip/check_ip HTTP/1.1" 200 -
+2025-05-15 09:44:40,068 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-15 09:44:40,068 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-15 09:44:40,069 - werkzeug - INFO -  * Restarting with stat
+2025-05-15 09:44:40,613 - werkzeug - WARNING -  * Debugger is active!
+2025-05-15 09:44:40,624 - werkzeug - INFO -  * Debugger PIN: 289-773-740
+2025-05-15 09:44:42,039 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:44:42] "GET /ip HTTP/1.1" 200 -
+2025-05-15 09:44:42,058 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:44:42] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-05-15 09:44:42,062 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:44:42] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-05-15 09:44:44,147 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:44:44] "GET /domain HTTP/1.1" 200 -
+2025-05-15 09:44:44,168 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:44:44] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-15 09:44:44,177 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:44:44] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-05-15 09:44:44,617 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:44:44] "GET /ip HTTP/1.1" 200 -
+2025-05-15 09:44:44,632 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:44:44] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-15 09:44:44,637 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:44:44] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-05-15 09:44:48,436 - app.services.ip_service - ERROR - AlienVault OTX error for section vpn: 404 Client Error: Not Found for url: https://otx.alienvault.com/api/v1/indicators/IPv4/1.1.1.1/vpn
+2025-05-15 09:44:49,861 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:44:49] "POST /api/ip/check_ip HTTP/1.1" 200 -
+2025-05-15 09:45:03,793 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:45:03] "GET /domain HTTP/1.1" 200 -
+2025-05-15 09:45:03,822 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:45:03] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-15 09:45:03,836 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:45:03] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-05-15 09:45:11,693 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:45:11] "POST /api/domain/check_domain HTTP/1.1" 200 -
+2025-05-15 09:46:22,747 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-15 09:46:22,747 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-15 09:46:22,747 - werkzeug - INFO -  * Restarting with stat
+2025-05-15 09:46:23,285 - werkzeug - WARNING -  * Debugger is active!
+2025-05-15 09:46:23,299 - werkzeug - INFO -  * Debugger PIN: 289-773-740
+2025-05-15 09:46:24,858 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:46:24] "GET /ip HTTP/1.1" 200 -
+2025-05-15 09:46:24,890 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:46:24] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-05-15 09:46:24,891 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:46:24] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-05-15 09:46:28,534 - app.services.ip_service - ERROR - AlienVault OTX error for section vpn: 404 Client Error: Not Found for url: https://otx.alienvault.com/api/v1/indicators/IPv4/1.1.1.1/vpn
+2025-05-15 09:46:29,951 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:46:29] "POST /api/ip/check_ip HTTP/1.1" 200 -
+2025-05-15 09:48:36,187 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:48:36] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-15 09:48:36,192 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:48:36] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-15 09:51:56,068 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-15 09:51:56,068 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-15 09:51:56,069 - werkzeug - INFO -  * Restarting with stat
+2025-05-15 09:51:56,561 - werkzeug - WARNING -  * Debugger is active!
+2025-05-15 09:51:56,573 - werkzeug - INFO -  * Debugger PIN: 289-773-740
+2025-05-15 09:52:04,754 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:52:04] "GET / HTTP/1.1" 200 -
+2025-05-15 09:52:04,881 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:52:04] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-05-15 09:52:04,883 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:52:04] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-05-15 09:52:06,773 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:52:06] "GET /ip HTTP/1.1" 200 -
+2025-05-15 09:52:06,787 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:52:06] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-15 09:52:06,793 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:52:06] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-05-15 09:52:10,988 - app.services.ip_service - ERROR - AlienVault OTX error for section vpn: 404 Client Error: Not Found for url: https://otx.alienvault.com/api/v1/indicators/IPv4/1.1.1.1/vpn
+2025-05-15 09:52:12,510 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:52:12] "POST /api/ip/check_ip HTTP/1.1" 200 -
+2025-05-15 09:54:17,638 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-15 09:54:17,639 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-15 09:54:17,639 - werkzeug - INFO -  * Restarting with stat
+2025-05-15 09:54:18,173 - werkzeug - WARNING -  * Debugger is active!
+2025-05-15 09:54:18,187 - werkzeug - INFO -  * Debugger PIN: 289-773-740
+2025-05-15 09:54:20,428 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:54:20] "GET / HTTP/1.1" 200 -
+2025-05-15 09:54:20,461 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:54:20] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-05-15 09:54:20,462 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:54:20] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-05-15 09:54:22,609 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:54:22] "GET /ip HTTP/1.1" 200 -
+2025-05-15 09:54:22,626 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:54:22] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-15 09:54:22,632 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:54:22] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-05-15 09:54:26,654 - app.services.ip_service - ERROR - AlienVault OTX error for section vpn: 404 Client Error: Not Found for url: https://otx.alienvault.com/api/v1/indicators/IPv4/1.1.1.1/vpn
+2025-05-15 09:54:28,139 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:54:28] "POST /api/ip/check_ip HTTP/1.1" 200 -
+2025-05-15 09:55:26,307 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-15 09:55:26,308 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-15 09:55:26,308 - werkzeug - INFO -  * Restarting with stat
+2025-05-15 09:55:26,820 - werkzeug - WARNING -  * Debugger is active!
+2025-05-15 09:55:26,830 - werkzeug - INFO -  * Debugger PIN: 289-773-740
+2025-05-15 09:55:28,663 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:55:28] "GET /ip HTTP/1.1" 200 -
+2025-05-15 09:55:28,695 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:55:28] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-05-15 09:55:28,695 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:55:28] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-05-15 09:55:32,117 - app.services.ip_service - ERROR - AlienVault OTX error for section vpn: 404 Client Error: Not Found for url: https://otx.alienvault.com/api/v1/indicators/IPv4/1.1.1.1/vpn
+2025-05-15 09:55:33,607 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 09:55:33] "POST /api/ip/check_ip HTTP/1.1" 200 -
+2025-05-15 10:07:55,205 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-15 10:07:55,205 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-15 10:07:55,206 - werkzeug - INFO -  * Restarting with stat
+2025-05-15 10:07:55,751 - werkzeug - WARNING -  * Debugger is active!
+2025-05-15 10:07:55,765 - werkzeug - INFO -  * Debugger PIN: 289-773-740
+2025-05-15 10:07:57,477 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 10:07:57] "GET / HTTP/1.1" 200 -
+2025-05-15 10:07:57,550 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 10:07:57] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-15 10:07:57,552 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 10:07:57] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-05-15 10:07:59,029 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 10:07:59] "GET /ip HTTP/1.1" 200 -
+2025-05-15 10:07:59,048 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 10:07:59] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-05-15 10:07:59,048 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 10:07:59] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-15 10:08:03,232 - app.services.ip_service - ERROR - AlienVault OTX error for section vpn: 404 Client Error: Not Found for url: https://otx.alienvault.com/api/v1/indicators/IPv4/1.1.1.1/vpn
+2025-05-15 10:08:04,754 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 10:08:04] "POST /api/ip/check_ip HTTP/1.1" 200 -

@@ -1,4 +1,4 @@
-#!/home/zack/Desktop/IP-Checker/IP-Checker/venv/bin/python3
+#!/Users/zmckone/Desktop/Escaltion Dashboard/NexusTrace/venv/bin/python3.13
 
 ##############################################################################
 #
