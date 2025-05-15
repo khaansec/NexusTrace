@@ -1,0 +1,108 @@
+import enum
+
+from intezer_sdk import __version__
+
+DEFAULT_DATE_FORMAT = '%a, %d %b %Y %X GMT'
+
+
+class AutoName(enum.Enum):
+    def _generate_next_value_(name, start, count, last_values):
+        return name.lower()
+
+
+class AnalysisStatusCode(enum.Enum):
+    CREATED = 'created'
+    IN_PROGRESS = 'in_progress'
+    QUEUED = 'queued'
+    FAILED = 'failed'
+    FINISH = 'finished'
+    FINISHED = 'finished'
+
+
+class AlertStatusCode(AutoName):
+    QUEUED = enum.auto()
+    IN_PROGRESS = enum.auto()
+    NOT_FOUND = enum.auto()
+    FINISHED = enum.auto()
+
+
+class EndpointAnalysisEndReason(enum.Enum):
+    DONE = 'done'
+    INTERRUPTED = 'interrupted'
+    FAILED = 'failed'
+
+
+class SoftwareType(AutoName):
+    ADMINISTRATION_TOOL = enum.auto()
+    APPLICATION = enum.auto()
+    INSTALLER = enum.auto()
+    LIBRARY = enum.auto()
+    PACKER = enum.auto()
+    MALWARE = enum.auto()
+    INTERPRETER = enum.auto()
+    MALICIOUS_PACKER = enum.auto()
+
+
+class FileAnalysisVerdict(AutoName):
+    TRUSTED = enum.auto()
+    MALICIOUS = enum.auto()
+    SUSPICIOUS = enum.auto()
+    NEUTRAL = enum.auto()
+    UNKNOWN = enum.auto()
+    NOT_SUPPORTED = enum.auto()
+    NO_THREATS = enum.auto()
+
+
+class EndpointAnalysisVerdict(AutoName):
+    NO_THREATS = enum.auto()
+    MALICIOUS = enum.auto()
+    SUSPICIOUS = enum.auto()
+    INCOMPLETE = enum.auto()
+
+
+class URLAnalysisVerdict(AutoName):
+    NO_THREATS = enum.auto()
+    SUSPICIOUS = enum.auto()
+    MALICIOUS = enum.auto()
+
+
+class IndexStatusCode(enum.Enum):
+    CREATED = 'created'
+    IN_PROGRESS = 'in_progress'
+    FINISH = 'finished'
+    FINISHED = 'finished'
+
+
+class IndexType(AutoName):
+    TRUSTED = enum.auto()
+    MALICIOUS = enum.auto()
+
+    @staticmethod
+    def from_str(label):
+        if label in ('TRUSTED', 'trusted'):
+            return IndexType.TRUSTED
+        elif label in ('MALICIOUS', 'malicious'):
+            return IndexType.MALICIOUS
+        else:
+            raise NotImplementedError
+
+
+class CodeItemType(AutoName):
+    FILE = enum.auto()
+    MEMORY_MODULE = enum.auto()
+
+
+class OnPremiseVersion(enum.IntEnum):
+    V21_11 = 21.11
+    V22_10 = 22.10
+    V23_10 = 23.10
+
+
+ANALYZE_URL = 'https://analyze.intezer.com'
+BASE_URL = f'{ANALYZE_URL}/api/'
+API_VERSION = 'v2-0'
+USER_AGENT = f'intezer-python-sdk-{__version__}'
+CHECK_STATUS_INTERVAL = 1
+SCAN_TYPE_OFFLINE_ENDPOINT_SCAN = 'offline_endpoint_scan'
+SCAN_DEFAULT_MAX_WORKERS = 1
+SCAN_MAX_UPLOAD_RETRIES = 3
