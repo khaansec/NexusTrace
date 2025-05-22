@@ -921,3 +921,100 @@
 2025-05-15 15:24:18,636 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 15:24:18] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
 2025-05-15 15:24:25,781 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 15:24:25] "GET / HTTP/1.1" 200 -
 2025-05-15 15:24:25,846 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 15:24:25] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-19 14:25:21,204 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-19 14:25:21,205 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-19 14:25:21,212 - werkzeug - INFO -  * Restarting with stat
+2025-05-19 14:25:22,000 - werkzeug - WARNING -  * Debugger is active!
+2025-05-19 14:25:22,006 - werkzeug - INFO -  * Debugger PIN: 434-082-406
+2025-05-19 14:25:34,568 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:25:34] "GET / HTTP/1.1" 200 -
+2025-05-19 14:25:34,696 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:25:34] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-05-19 14:25:45,476 - app.services.ip_service - ERROR - AlienVault OTX error for section vpn: 404 Client Error: Not Found for url: https://otx.alienvault.com/api/v1/indicators/IPv4/1.1.1.1/vpn
+2025-05-19 14:25:46,863 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:25:46] "POST /analyze HTTP/1.1" 200 -
+2025-05-19 14:25:46,896 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:25:46] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-19 14:26:00,056 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:26:00] "GET /ip HTTP/1.1" 200 -
+2025-05-19 14:26:00,086 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:26:00] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-19 14:29:28,488 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-19 14:29:28,489 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-19 14:29:28,490 - werkzeug - INFO -  * Restarting with stat
+2025-05-19 14:29:29,239 - werkzeug - WARNING -  * Debugger is active!
+2025-05-19 14:29:29,244 - werkzeug - INFO -  * Debugger PIN: 434-082-406
+2025-05-19 14:29:31,913 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:29:31] "GET / HTTP/1.1" 200 -
+2025-05-19 14:29:32,009 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:29:32] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-05-19 14:31:59,045 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-19 14:31:59,045 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-19 14:31:59,047 - werkzeug - INFO -  * Restarting with stat
+2025-05-19 14:31:59,823 - werkzeug - WARNING -  * Debugger is active!
+2025-05-19 14:31:59,829 - werkzeug - INFO -  * Debugger PIN: 434-082-406
+2025-05-19 14:32:02,243 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:32:02] "GET / HTTP/1.1" 200 -
+2025-05-19 14:32:02,340 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:32:02] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-19 14:32:07,330 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:32:07] "GET /tools/cyberchef HTTP/1.1" 200 -
+2025-05-19 14:32:07,368 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:32:07] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-19 14:32:07,396 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:32:07] "GET /cyberchef/ HTTP/1.1" 200 -
+2025-05-19 14:32:07,417 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:32:07] "GET /cyberchef/assets/main.js HTTP/1.1" 200 -
+2025-05-19 14:32:07,418 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:32:07] "GET /cyberchef/assets/main.css HTTP/1.1" 200 -
+2025-05-19 14:32:07,434 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:32:07] "GET /cyberchef/images/cook_male-32x32.png HTTP/1.1" 200 -
+2025-05-19 14:32:07,434 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:32:07] "GET /cyberchef/images/cyberchef-128x128.png HTTP/1.1" 200 -
+2025-05-19 14:32:07,438 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:32:07] "GET /cyberchef/images/fork_me.png HTTP/1.1" 200 -
+2025-05-19 14:32:07,466 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:32:07] "GET /cyberchef/assets/02aafe15b98928fdaa38.ttf HTTP/1.1" 200 -
+2025-05-19 14:32:15,928 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:32:15] "[36mGET /cyberchef/ HTTP/1.1[0m" 304 -
+2025-05-19 14:32:15,951 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:32:15] "[36mGET /cyberchef/assets/main.js HTTP/1.1[0m" 304 -
+2025-05-19 14:32:15,952 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:32:15] "[36mGET /cyberchef/assets/main.css HTTP/1.1[0m" 304 -
+2025-05-19 14:32:15,995 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:32:15] "[36mGET /cyberchef/images/cook_male-32x32.png HTTP/1.1[0m" 304 -
+2025-05-19 14:32:15,996 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:32:15] "[36mGET /cyberchef/images/cyberchef-128x128.png HTTP/1.1[0m" 304 -
+2025-05-19 14:32:15,998 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:32:15] "[36mGET /cyberchef/images/fork_me.png HTTP/1.1[0m" 304 -
+2025-05-19 14:32:16,337 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:32:16] "GET /cyberchef/assets/aecc661b69309290f600.ico HTTP/1.1" 200 -
+2025-05-19 14:32:32,167 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:32:32] "GET /url HTTP/1.1" 200 -
+2025-05-19 14:32:32,211 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:32:32] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-19 14:32:32,761 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:32:32] "GET /domain HTTP/1.1" 200 -
+2025-05-19 14:32:32,796 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:32:32] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-19 14:32:33,682 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:32:33] "GET /ip HTTP/1.1" 200 -
+2025-05-19 14:32:33,713 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:32:33] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-19 14:32:34,927 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:32:34] "GET / HTTP/1.1" 200 -
+2025-05-19 14:32:34,951 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:32:34] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-19 14:33:50,371 - werkzeug - INFO -  * Detected change in 'C:\\Users\\zackm\\OneDrive\\Desktop\\Windows\\NexusTrace\\app\\routes\\cyberchef_routes.py', reloading
+2025-05-19 14:33:50,457 - werkzeug - INFO -  * Restarting with stat
+2025-05-19 14:33:51,192 - werkzeug - WARNING -  * Debugger is active!
+2025-05-19 14:33:51,197 - werkzeug - INFO -  * Debugger PIN: 434-082-406
+2025-05-19 14:35:44,351 - werkzeug - INFO -  * Detected change in 'C:\\Users\\zackm\\OneDrive\\Desktop\\Windows\\NexusTrace\\app\\routes\\cyberchef_routes.py', reloading
+2025-05-19 14:35:44,440 - werkzeug - INFO -  * Restarting with stat
+2025-05-19 14:35:45,243 - werkzeug - WARNING -  * Debugger is active!
+2025-05-19 14:35:45,248 - werkzeug - INFO -  * Debugger PIN: 434-082-406
+2025-05-19 14:38:55,271 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-19 14:38:55,271 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-19 14:38:55,273 - werkzeug - INFO -  * Restarting with stat
+2025-05-19 14:38:56,029 - werkzeug - WARNING -  * Debugger is active!
+2025-05-19 14:38:56,035 - werkzeug - INFO -  * Debugger PIN: 434-082-406
+2025-05-19 14:38:57,915 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:38:57] "GET / HTTP/1.1" 200 -
+2025-05-19 14:38:58,004 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:38:58] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-19 14:38:59,288 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:38:59] "GET /tools/cyberchef HTTP/1.1" 200 -
+2025-05-19 14:38:59,317 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:38:59] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-19 14:38:59,365 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:38:59] "[36mGET /cyberchef/ HTTP/1.1[0m" 304 -
+2025-05-19 14:38:59,380 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:38:59] "[36mGET /cyberchef/assets/main.js HTTP/1.1[0m" 304 -
+2025-05-19 14:38:59,381 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:38:59] "[36mGET /cyberchef/assets/main.css HTTP/1.1[0m" 304 -
+2025-05-19 14:38:59,395 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:38:59] "[36mGET /cyberchef/images/cook_male-32x32.png HTTP/1.1[0m" 304 -
+2025-05-19 14:38:59,397 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:38:59] "[36mGET /cyberchef/images/cyberchef-128x128.png HTTP/1.1[0m" 304 -
+2025-05-19 14:38:59,400 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:38:59] "[36mGET /cyberchef/images/fork_me.png HTTP/1.1[0m" 304 -
+2025-05-19 14:38:59,458 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:38:59] "[36mGET /cyberchef/assets/02aafe15b98928fdaa38.ttf HTTP/1.1[0m" 304 -
+2025-05-19 14:39:03,345 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:39:03] "[36mGET /cyberchef/ HTTP/1.1[0m" 304 -
+2025-05-19 14:39:03,380 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:39:03] "[36mGET /cyberchef/assets/main.js HTTP/1.1[0m" 304 -
+2025-05-19 14:39:03,382 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:39:03] "[36mGET /cyberchef/assets/main.css HTTP/1.1[0m" 304 -
+2025-05-19 14:39:03,438 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:39:03] "[36mGET /cyberchef/images/cook_male-32x32.png HTTP/1.1[0m" 304 -
+2025-05-19 14:39:03,439 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:39:03] "[36mGET /cyberchef/images/cyberchef-128x128.png HTTP/1.1[0m" 304 -
+2025-05-19 14:39:03,439 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:39:03] "[36mGET /cyberchef/images/fork_me.png HTTP/1.1[0m" 304 -
+2025-05-19 14:39:08,644 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:39:08] "[36mGET /cyberchef/ HTTP/1.1[0m" 304 -
+2025-05-19 14:39:08,677 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:39:08] "[36mGET /cyberchef/assets/main.js HTTP/1.1[0m" 304 -
+2025-05-19 14:39:08,678 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:39:08] "[36mGET /cyberchef/assets/main.css HTTP/1.1[0m" 304 -
+2025-05-19 14:39:08,778 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:39:08] "[36mGET /cyberchef/images/cook_male-32x32.png HTTP/1.1[0m" 304 -
+2025-05-19 14:39:08,778 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:39:08] "[36mGET /cyberchef/images/cyberchef-128x128.png HTTP/1.1[0m" 304 -
+2025-05-19 14:39:08,779 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:39:08] "[36mGET /cyberchef/images/fork_me.png HTTP/1.1[0m" 304 -
+2025-05-19 14:39:17,322 - werkzeug - INFO - 127.0.0.1 - - [19/May/2025 14:39:17] "GET /api/cyberchef/recipes HTTP/1.1" 200 -
+2025-05-19 14:42:08,247 - werkzeug - INFO -  * Detected change in 'C:\\Users\\zackm\\OneDrive\\Desktop\\Windows\\NexusTrace\\app\\routes\\cyberchef_api.py', reloading
+2025-05-19 14:42:08,362 - werkzeug - INFO -  * Restarting with stat
+2025-05-19 14:42:09,200 - werkzeug - WARNING -  * Debugger is active!
+2025-05-19 14:42:09,205 - werkzeug - INFO -  * Debugger PIN: 434-082-406
+2025-05-19 14:42:24,350 - werkzeug - INFO -  * Detected change in 'C:\\Users\\zackm\\OneDrive\\Desktop\\Windows\\NexusTrace\\app\\routes\\__init__.py', reloading
+2025-05-19 14:42:24,438 - werkzeug - INFO -  * Restarting with stat
