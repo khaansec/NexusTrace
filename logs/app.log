@@ -2367,3 +2367,27 @@
 2025-05-23 14:46:51,783 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:46:51] "GET / HTTP/1.1" 200 -
 2025-05-23 14:46:51,815 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:46:51] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
 2025-05-23 14:46:51,886 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:46:51] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-23 14:47:08,120 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:47:08] "GET / HTTP/1.1" 200 -
+2025-05-23 14:47:08,145 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:47:08] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-23 14:47:08,213 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:47:08] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-23 14:47:08,213 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:47:08] "[36mGET /static/favicon_io/favicon.ico HTTP/1.1[0m" 304 -
+2025-05-23 14:47:31,662 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:47:31] "POST /analyze HTTP/1.1" 200 -
+2025-05-23 14:47:31,679 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:47:31] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-23 14:47:31,770 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:47:31] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-23 14:47:37,832 - app.services.ip_service - ERROR - AlienVault OTX error for section vpn: 404 Client Error: Not Found for url: https://otx.alienvault.com/api/v1/indicators/IPv4/82.145.213.8/vpn
+2025-05-23 14:47:39,347 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:47:39] "POST /analyze HTTP/1.1" 200 -
+2025-05-23 14:47:39,377 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:47:39] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-23 14:47:39,450 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:47:39] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-23 14:47:41,214 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:47:41] "GET /tools/cyberchef HTTP/1.1" 200 -
+2025-05-23 14:47:41,239 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:47:41] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-23 14:47:41,271 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:47:41] "[36mGET /cyberchef/ HTTP/1.1[0m" 304 -
+2025-05-23 14:47:41,285 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:47:41] "[36mGET /cyberchef/images/cyberchef-128x128.png HTTP/1.1[0m" 304 -
+2025-05-23 14:47:41,287 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:47:41] "[36mGET /cyberchef/images/cook_male-32x32.png HTTP/1.1[0m" 304 -
+2025-05-23 14:47:41,288 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:47:41] "[36mGET /cyberchef/assets/main.css HTTP/1.1[0m" 304 -
+2025-05-23 14:47:41,291 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:47:41] "[36mGET /cyberchef/assets/main.js HTTP/1.1[0m" 304 -
+2025-05-23 14:47:41,299 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:47:41] "[36mGET /cyberchef/images/fork_me.png HTTP/1.1[0m" 304 -
+2025-05-23 14:47:41,332 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:47:41] "[36mGET /cyberchef/assets/02aafe15b98928fdaa38.ttf HTTP/1.1[0m" 304 -
+2025-05-23 14:47:41,772 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:47:41] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-23 14:47:55,383 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:47:55] "GET / HTTP/1.1" 200 -
+2025-05-23 14:47:55,412 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:47:55] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-23 14:47:55,495 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:47:55] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
