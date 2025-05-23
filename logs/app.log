@@ -2263,3 +2263,107 @@
 2025-05-23 14:19:04,898 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:19:04] "GET / HTTP/1.1" 200 -
 2025-05-23 14:19:04,922 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:19:04] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
 2025-05-23 14:19:04,998 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:19:04] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-23 14:19:46,048 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:19:46] "POST /analyze HTTP/1.1" 200 -
+2025-05-23 14:19:46,116 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:19:46] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-23 14:19:46,172 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:19:46] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-23 14:20:47,140 - werkzeug - INFO -  * Detected change in '/Users/zmckone/Desktop/NexusTrace/app/routes/domain_routes.py', reloading
+2025-05-23 14:20:47,250 - werkzeug - INFO -  * Restarting with stat
+2025-05-23 14:20:47,912 - werkzeug - WARNING -  * Debugger is active!
+2025-05-23 14:20:47,927 - werkzeug - INFO -  * Debugger PIN: 242-967-145
+2025-05-23 14:20:58,075 - werkzeug - INFO -  * Detected change in '/Users/zmckone/Desktop/NexusTrace/app/routes/domain_routes.py', reloading
+2025-05-23 14:20:58,172 - werkzeug - INFO -  * Restarting with stat
+2025-05-23 14:20:58,752 - werkzeug - WARNING -  * Debugger is active!
+2025-05-23 14:20:58,763 - werkzeug - INFO -  * Debugger PIN: 242-967-145
+2025-05-23 14:21:16,841 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-05-23 14:21:16,841 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-23 14:21:16,841 - werkzeug - INFO -  * Restarting with stat
+2025-05-23 14:21:17,504 - werkzeug - WARNING -  * Debugger is active!
+2025-05-23 14:21:17,517 - werkzeug - INFO -  * Debugger PIN: 242-967-145
+2025-05-23 14:21:21,920 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:21:21] "GET / HTTP/1.1" 200 -
+2025-05-23 14:21:21,972 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:21:21] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-23 14:21:22,074 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:21:22] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-23 14:21:22,788 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:21:22] "GET / HTTP/1.1" 200 -
+2025-05-23 14:21:22,814 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:21:22] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-23 14:21:22,876 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:21:22] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-23 14:21:29,031 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:21:29] "POST /analyze HTTP/1.1" 200 -
+2025-05-23 14:21:29,114 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:21:29] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-23 14:21:29,170 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:21:29] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-23 14:22:44,014 - werkzeug - INFO -  * Detected change in '/Users/zmckone/Desktop/NexusTrace/app/services/hash_service.py', reloading
+2025-05-23 14:22:44,121 - werkzeug - INFO -  * Restarting with stat
+2025-05-23 14:22:44,780 - werkzeug - WARNING -  * Debugger is active!
+2025-05-23 14:22:44,791 - werkzeug - INFO -  * Debugger PIN: 242-967-145
+2025-05-23 14:22:49,871 - werkzeug - INFO -  * Detected change in '/Users/zmckone/Desktop/NexusTrace/app/routes/hash_routes.py', reloading
+2025-05-23 14:22:49,969 - werkzeug - INFO -  * Restarting with stat
+2025-05-23 14:22:50,564 - werkzeug - WARNING -  * Debugger is active!
+2025-05-23 14:22:50,577 - werkzeug - INFO -  * Debugger PIN: 242-967-145
+2025-05-23 14:22:51,612 - werkzeug - INFO -  * Detected change in '/Users/zmckone/Desktop/NexusTrace/app/routes/hash_routes.py', reloading
+2025-05-23 14:22:51,701 - werkzeug - INFO -  * Restarting with stat
+2025-05-23 14:22:52,295 - werkzeug - WARNING -  * Debugger is active!
+2025-05-23 14:22:52,308 - werkzeug - INFO -  * Debugger PIN: 242-967-145
+2025-05-23 14:23:11,563 - werkzeug - INFO -  * Detected change in '/Users/zmckone/Desktop/NexusTrace/app/routes/__init__.py', reloading
+2025-05-23 14:23:11,654 - werkzeug - INFO -  * Restarting with stat
+2025-05-23 14:23:12,197 - werkzeug - WARNING -  * Debugger is active!
+2025-05-23 14:23:12,211 - werkzeug - INFO -  * Debugger PIN: 242-967-145
+2025-05-23 14:23:17,309 - werkzeug - INFO -  * Detected change in '/Users/zmckone/Desktop/NexusTrace/app/routes/__init__.py', reloading
+2025-05-23 14:23:17,404 - werkzeug - INFO -  * Restarting with stat
+2025-05-23 14:23:17,940 - werkzeug - WARNING -  * Debugger is active!
+2025-05-23 14:23:17,951 - werkzeug - INFO -  * Debugger PIN: 242-967-145
+2025-05-23 14:24:17,145 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:24:17] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-23 14:38:42,408 - werkzeug - INFO -  * Detected change in '/Users/zmckone/Desktop/NexusTrace/app/routes/hash_routes.py', reloading
+2025-05-23 14:38:42,500 - werkzeug - INFO -  * Restarting with stat
+2025-05-23 14:38:43,179 - werkzeug - WARNING -  * Debugger is active!
+2025-05-23 14:38:43,195 - werkzeug - INFO -  * Debugger PIN: 242-967-145
+2025-05-23 14:40:59,684 - werkzeug - INFO -  * Detected change in '/Users/zmckone/Desktop/NexusTrace/app/routes/hash_routes.py', reloading
+2025-05-23 14:40:59,830 - werkzeug - INFO -  * Restarting with stat
+2025-05-23 14:41:00,491 - werkzeug - WARNING -  * Debugger is active!
+2025-05-23 14:41:00,502 - werkzeug - INFO -  * Debugger PIN: 242-967-145
+2025-05-23 14:41:09,074 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-05-23 14:41:09,074 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-23 14:41:09,075 - werkzeug - INFO -  * Restarting with stat
+2025-05-23 14:41:09,756 - werkzeug - WARNING -  * Debugger is active!
+2025-05-23 14:41:09,767 - werkzeug - INFO -  * Debugger PIN: 242-967-145
+2025-05-23 14:41:13,668 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:41:13] "GET / HTTP/1.1" 200 -
+2025-05-23 14:41:13,719 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:41:13] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-23 14:41:13,827 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:41:13] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-23 14:41:16,621 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:41:16] "GET /tools/cyberchef HTTP/1.1" 200 -
+2025-05-23 14:41:16,655 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:41:16] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-23 14:41:16,685 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:41:16] "[36mGET /cyberchef/ HTTP/1.1[0m" 304 -
+2025-05-23 14:41:16,705 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:41:16] "[36mGET /cyberchef/images/cook_male-32x32.png HTTP/1.1[0m" 304 -
+2025-05-23 14:41:16,707 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:41:16] "[36mGET /cyberchef/assets/main.css HTTP/1.1[0m" 304 -
+2025-05-23 14:41:16,718 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:41:16] "[36mGET /cyberchef/images/cyberchef-128x128.png HTTP/1.1[0m" 304 -
+2025-05-23 14:41:16,720 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:41:16] "[36mGET /cyberchef/assets/main.js HTTP/1.1[0m" 304 -
+2025-05-23 14:41:16,733 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:41:16] "[36mGET /cyberchef/images/fork_me.png HTTP/1.1[0m" 304 -
+2025-05-23 14:41:16,785 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:41:16] "[36mGET /cyberchef/assets/02aafe15b98928fdaa38.ttf HTTP/1.1[0m" 304 -
+2025-05-23 14:41:17,215 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:41:17] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-23 14:41:19,677 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:41:19] "GET / HTTP/1.1" 200 -
+2025-05-23 14:41:19,709 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:41:19] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-23 14:41:19,777 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:41:19] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-23 14:41:25,925 - app.services.ip_service - ERROR - AlienVault OTX error for section vpn: 404 Client Error: Not Found for url: https://otx.alienvault.com/api/v1/indicators/IPv4/8.8.8.8/vpn
+2025-05-23 14:41:27,459 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:41:27] "POST /analyze HTTP/1.1" 200 -
+2025-05-23 14:41:27,485 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:41:27] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-23 14:41:27,573 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:41:27] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-23 14:46:20,576 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-05-23 14:46:20,576 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-23 14:46:20,576 - werkzeug - INFO -  * Restarting with stat
+2025-05-23 14:46:21,164 - werkzeug - WARNING -  * Debugger is active!
+2025-05-23 14:46:21,175 - werkzeug - INFO -  * Debugger PIN: 242-967-145
+2025-05-23 14:46:23,229 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:46:23] "GET / HTTP/1.1" 200 -
+2025-05-23 14:46:23,274 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:46:23] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-23 14:46:23,385 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:46:23] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-23 14:46:27,214 - app.services.ip_service - ERROR - AlienVault OTX error for section vpn: 404 Client Error: Not Found for url: https://otx.alienvault.com/api/v1/indicators/IPv4/8.8.8.8/vpn
+2025-05-23 14:46:28,742 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:46:28] "POST /analyze HTTP/1.1" 200 -
+2025-05-23 14:46:28,767 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:46:28] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-23 14:46:28,853 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:46:28] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-23 14:46:33,147 - root - ERROR - Error analyzing URL: Invalid URL 'legatosec.com': No scheme supplied. Perhaps you meant https://legatosec.com?
+2025-05-23 14:46:33,148 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:46:33] "POST /analyze HTTP/1.1" 200 -
+2025-05-23 14:46:33,171 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:46:33] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-23 14:46:33,228 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:46:33] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-23 14:46:42,851 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:46:42] "POST /analyze HTTP/1.1" 200 -
+2025-05-23 14:46:42,874 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:46:42] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-23 14:46:42,938 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:46:42] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-23 14:46:51,783 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:46:51] "GET / HTTP/1.1" 200 -
+2025-05-23 14:46:51,815 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:46:51] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-23 14:46:51,886 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:46:51] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
