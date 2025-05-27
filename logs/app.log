@@ -2391,3 +2391,342 @@
 2025-05-23 14:47:55,383 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:47:55] "GET / HTTP/1.1" 200 -
 2025-05-23 14:47:55,412 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:47:55] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
 2025-05-23 14:47:55,495 - werkzeug - INFO - 127.0.0.1 - - [23/May/2025 14:47:55] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 12:25:26,110 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-05-27 12:25:26,110 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-27 12:25:26,111 - werkzeug - INFO -  * Restarting with stat
+2025-05-27 12:25:26,870 - werkzeug - WARNING -  * Debugger is active!
+2025-05-27 12:25:26,885 - werkzeug - INFO -  * Debugger PIN: 242-967-145
+2025-05-27 12:25:31,111 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:25:31] "GET / HTTP/1.1" 200 -
+2025-05-27 12:25:31,152 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:25:31] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-05-27 12:25:31,259 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:25:31] "GET /static/favicon_io/site.webmanifest HTTP/1.1" 200 -
+2025-05-27 12:25:31,259 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:25:31] "GET /static/favicon_io/favicon.ico HTTP/1.1" 200 -
+2025-05-27 12:30:54,109 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-05-27 12:30:54,110 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-27 12:30:54,111 - werkzeug - INFO -  * Restarting with stat
+2025-05-27 12:30:54,645 - werkzeug - WARNING -  * Debugger is active!
+2025-05-27 12:30:54,657 - werkzeug - INFO -  * Debugger PIN: 242-967-145
+2025-05-27 12:30:56,004 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:30:56] "GET / HTTP/1.1" 200 -
+2025-05-27 12:30:56,039 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:30:56] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 12:30:56,218 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:30:56] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 12:32:22,690 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-05-27 12:32:22,690 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-27 12:32:22,691 - werkzeug - INFO -  * Restarting with stat
+2025-05-27 12:32:23,286 - werkzeug - WARNING -  * Debugger is active!
+2025-05-27 12:32:23,299 - werkzeug - INFO -  * Debugger PIN: 242-967-145
+2025-05-27 12:32:24,851 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:32:24] "GET / HTTP/1.1" 200 -
+2025-05-27 12:32:24,886 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:32:24] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 12:32:24,979 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:32:24] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 12:32:24,982 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:32:24] "[36mGET /static/favicon_io/favicon.ico HTTP/1.1[0m" 304 -
+2025-05-27 12:34:48,350 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-05-27 12:34:48,350 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-27 12:34:48,351 - werkzeug - INFO -  * Restarting with stat
+2025-05-27 12:34:48,899 - werkzeug - WARNING -  * Debugger is active!
+2025-05-27 12:34:48,912 - werkzeug - INFO -  * Debugger PIN: 242-967-145
+2025-05-27 12:34:50,999 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:34:50] "GET / HTTP/1.1" 200 -
+2025-05-27 12:34:51,039 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:34:51] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 12:34:51,141 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:34:51] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 12:34:51,144 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:34:51] "[36mGET /static/favicon_io/favicon.ico HTTP/1.1[0m" 304 -
+2025-05-27 12:35:13,474 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-05-27 12:35:13,474 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-27 12:35:13,474 - werkzeug - INFO -  * Restarting with stat
+2025-05-27 12:35:14,044 - werkzeug - WARNING -  * Debugger is active!
+2025-05-27 12:35:14,055 - werkzeug - INFO -  * Debugger PIN: 242-967-145
+2025-05-27 12:35:15,506 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:35:15] "GET / HTTP/1.1" 200 -
+2025-05-27 12:35:15,527 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:35:15] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 12:35:15,585 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:35:15] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 12:35:15,587 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:35:15] "[36mGET /static/favicon_io/favicon.ico HTTP/1.1[0m" 304 -
+2025-05-27 12:37:02,599 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-05-27 12:37:02,599 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-27 12:37:02,600 - werkzeug - INFO -  * Restarting with stat
+2025-05-27 12:37:03,149 - werkzeug - WARNING -  * Debugger is active!
+2025-05-27 12:37:03,161 - werkzeug - INFO -  * Debugger PIN: 242-967-145
+2025-05-27 12:37:04,464 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:37:04] "GET / HTTP/1.1" 200 -
+2025-05-27 12:37:04,496 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:37:04] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 12:37:04,598 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:37:04] "[36mGET /static/favicon_io/favicon.ico HTTP/1.1[0m" 304 -
+2025-05-27 12:37:04,601 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:37:04] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 12:39:02,368 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-05-27 12:39:02,368 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-27 12:39:02,368 - werkzeug - INFO -  * Restarting with stat
+2025-05-27 12:39:02,915 - werkzeug - WARNING -  * Debugger is active!
+2025-05-27 12:39:02,926 - werkzeug - INFO -  * Debugger PIN: 242-967-145
+2025-05-27 12:39:03,939 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:39:03] "GET / HTTP/1.1" 200 -
+2025-05-27 12:39:03,981 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:39:03] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 12:39:04,083 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:39:04] "[36mGET /static/favicon_io/favicon.ico HTTP/1.1[0m" 304 -
+2025-05-27 12:39:04,084 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:39:04] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 12:39:06,998 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:39:06] "GET / HTTP/1.1" 200 -
+2025-05-27 12:39:07,028 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:39:07] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 12:39:07,125 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:39:07] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 12:39:07,125 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:39:07] "[36mGET /static/favicon_io/favicon.ico HTTP/1.1[0m" 304 -
+2025-05-27 12:40:10,883 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-05-27 12:40:10,884 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-27 12:40:10,884 - werkzeug - INFO -  * Restarting with stat
+2025-05-27 12:40:11,423 - werkzeug - WARNING -  * Debugger is active!
+2025-05-27 12:40:11,435 - werkzeug - INFO -  * Debugger PIN: 242-967-145
+2025-05-27 12:40:12,424 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:40:12] "GET / HTTP/1.1" 200 -
+2025-05-27 12:40:12,456 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:40:12] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 12:40:12,536 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:40:12] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 12:40:12,538 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:40:12] "[36mGET /static/favicon_io/favicon.ico HTTP/1.1[0m" 304 -
+2025-05-27 12:41:18,477 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-05-27 12:41:18,477 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-27 12:41:18,477 - werkzeug - INFO -  * Restarting with stat
+2025-05-27 12:41:19,035 - werkzeug - WARNING -  * Debugger is active!
+2025-05-27 12:41:19,047 - werkzeug - INFO -  * Debugger PIN: 242-967-145
+2025-05-27 12:41:20,051 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:41:20] "GET / HTTP/1.1" 200 -
+2025-05-27 12:41:20,101 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:41:20] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 12:41:20,196 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:41:20] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 12:41:20,201 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:41:20] "[36mGET /static/favicon_io/favicon.ico HTTP/1.1[0m" 304 -
+2025-05-27 12:42:02,578 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-05-27 12:42:02,578 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-27 12:42:02,579 - werkzeug - INFO -  * Restarting with stat
+2025-05-27 12:42:03,137 - werkzeug - WARNING -  * Debugger is active!
+2025-05-27 12:42:03,149 - werkzeug - INFO -  * Debugger PIN: 242-967-145
+2025-05-27 12:42:05,152 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:42:05] "GET / HTTP/1.1" 200 -
+2025-05-27 12:42:05,187 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:42:05] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 12:42:05,287 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:42:05] "[36mGET /static/favicon_io/favicon.ico HTTP/1.1[0m" 304 -
+2025-05-27 12:42:05,287 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:42:05] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 12:43:54,923 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-05-27 12:43:54,923 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-27 12:43:54,923 - werkzeug - INFO -  * Restarting with stat
+2025-05-27 12:43:55,471 - werkzeug - WARNING -  * Debugger is active!
+2025-05-27 12:43:55,485 - werkzeug - INFO -  * Debugger PIN: 242-967-145
+2025-05-27 12:43:57,068 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:43:57] "GET / HTTP/1.1" 200 -
+2025-05-27 12:43:57,113 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:43:57] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 12:43:57,220 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:43:57] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 12:43:57,223 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:43:57] "[36mGET /static/favicon_io/favicon.ico HTTP/1.1[0m" 304 -
+2025-05-27 12:47:26,644 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-05-27 12:47:26,645 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-27 12:47:26,645 - werkzeug - INFO -  * Restarting with stat
+2025-05-27 12:47:27,194 - werkzeug - WARNING -  * Debugger is active!
+2025-05-27 12:47:27,208 - werkzeug - INFO -  * Debugger PIN: 242-967-145
+2025-05-27 12:47:30,559 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:47:30] "GET / HTTP/1.1" 200 -
+2025-05-27 12:47:30,592 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:47:30] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 12:47:30,689 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:47:30] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 12:47:30,693 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 12:47:30] "[36mGET /static/favicon_io/favicon.ico HTTP/1.1[0m" 304 -
+2025-05-27 13:07:04,268 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-05-27 13:07:04,268 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-27 13:07:04,268 - werkzeug - INFO -  * Restarting with stat
+2025-05-27 13:07:04,807 - werkzeug - WARNING -  * Debugger is active!
+2025-05-27 13:07:04,822 - werkzeug - INFO -  * Debugger PIN: 242-967-145
+2025-05-27 13:07:06,440 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:07:06] "GET / HTTP/1.1" 200 -
+2025-05-27 13:07:06,480 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:07:06] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 13:07:06,660 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:07:06] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 13:07:06,661 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:07:06] "[36mGET /static/favicon_io/favicon.ico HTTP/1.1[0m" 304 -
+2025-05-27 13:07:55,760 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-05-27 13:07:55,761 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-27 13:07:55,761 - werkzeug - INFO -  * Restarting with stat
+2025-05-27 13:07:56,294 - werkzeug - WARNING -  * Debugger is active!
+2025-05-27 13:07:56,308 - werkzeug - INFO -  * Debugger PIN: 242-967-145
+2025-05-27 13:07:59,273 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:07:59] "GET / HTTP/1.1" 200 -
+2025-05-27 13:07:59,311 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:07:59] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 13:07:59,417 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:07:59] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 13:07:59,417 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:07:59] "[36mGET /static/favicon_io/favicon.ico HTTP/1.1[0m" 304 -
+2025-05-27 13:09:34,984 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-05-27 13:09:34,984 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-27 13:09:34,985 - werkzeug - INFO -  * Restarting with stat
+2025-05-27 13:09:35,522 - werkzeug - WARNING -  * Debugger is active!
+2025-05-27 13:09:35,534 - werkzeug - INFO -  * Debugger PIN: 242-967-145
+2025-05-27 13:09:37,399 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:09:37] "GET / HTTP/1.1" 200 -
+2025-05-27 13:09:37,435 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:09:37] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 13:09:37,526 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:09:37] "[36mGET /static/favicon_io/favicon.ico HTTP/1.1[0m" 304 -
+2025-05-27 13:09:37,532 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:09:37] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 13:11:14,173 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-05-27 13:11:14,173 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-27 13:11:14,173 - werkzeug - INFO -  * Restarting with stat
+2025-05-27 13:11:14,710 - werkzeug - WARNING -  * Debugger is active!
+2025-05-27 13:11:14,723 - werkzeug - INFO -  * Debugger PIN: 242-967-145
+2025-05-27 13:11:16,137 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:11:16] "GET / HTTP/1.1" 200 -
+2025-05-27 13:11:16,172 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:11:16] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 13:11:16,275 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:11:16] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 13:11:16,276 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:11:16] "[36mGET /static/favicon_io/favicon.ico HTTP/1.1[0m" 304 -
+2025-05-27 13:14:07,877 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-05-27 13:14:07,878 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-27 13:14:07,878 - werkzeug - INFO -  * Restarting with stat
+2025-05-27 13:14:08,414 - werkzeug - WARNING -  * Debugger is active!
+2025-05-27 13:14:08,426 - werkzeug - INFO -  * Debugger PIN: 242-967-145
+2025-05-27 13:14:10,752 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:14:10] "GET / HTTP/1.1" 200 -
+2025-05-27 13:14:10,788 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:14:10] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 13:14:10,893 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:14:10] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 13:14:10,894 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:14:10] "[36mGET /static/favicon_io/favicon.ico HTTP/1.1[0m" 304 -
+2025-05-27 13:14:22,902 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:14:22] "GET /tools/cyberchef HTTP/1.1" 200 -
+2025-05-27 13:14:22,938 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:14:22] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 13:14:22,962 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:14:22] "GET /cyberchef/ HTTP/1.1" 200 -
+2025-05-27 13:14:22,982 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:14:22] "GET /cyberchef/assets/main.js HTTP/1.1" 200 -
+2025-05-27 13:14:22,983 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:14:22] "GET /cyberchef/images/cyberchef-128x128.png HTTP/1.1" 200 -
+2025-05-27 13:14:22,990 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:14:22] "GET /cyberchef/images/cook_male-32x32.png HTTP/1.1" 200 -
+2025-05-27 13:14:22,992 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:14:22] "GET /cyberchef/assets/main.css HTTP/1.1" 200 -
+2025-05-27 13:14:23,006 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:14:23] "GET /cyberchef/images/fork_me.png HTTP/1.1" 200 -
+2025-05-27 13:14:23,064 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:14:23] "GET /cyberchef/assets/02aafe15b98928fdaa38.ttf HTTP/1.1" 200 -
+2025-05-27 13:14:23,505 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:14:23] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 13:14:25,640 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:14:25] "GET / HTTP/1.1" 200 -
+2025-05-27 13:14:25,675 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:14:25] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 13:14:25,746 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:14:25] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 13:16:39,361 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-05-27 13:16:39,361 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-27 13:16:39,361 - werkzeug - INFO -  * Restarting with stat
+2025-05-27 13:16:39,890 - werkzeug - WARNING -  * Debugger is active!
+2025-05-27 13:16:39,903 - werkzeug - INFO -  * Debugger PIN: 242-967-145
+2025-05-27 13:16:41,569 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:16:41] "GET / HTTP/1.1" 200 -
+2025-05-27 13:16:41,610 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:16:41] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 13:16:41,718 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:16:41] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 13:16:41,722 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:16:41] "[36mGET /static/favicon_io/favicon.ico HTTP/1.1[0m" 304 -
+2025-05-27 13:16:54,623 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:16:54] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 13:16:55,492 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:16:55] "GET / HTTP/1.1" 200 -
+2025-05-27 13:16:55,524 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:16:55] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 13:16:55,607 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:16:55] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 13:16:56,427 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:16:56] "GET /tools/cyberchef HTTP/1.1" 200 -
+2025-05-27 13:16:56,452 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:16:56] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 13:16:56,489 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:16:56] "[36mGET /cyberchef/ HTTP/1.1[0m" 304 -
+2025-05-27 13:16:56,531 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:16:56] "[36mGET /cyberchef/images/cyberchef-128x128.png HTTP/1.1[0m" 304 -
+2025-05-27 13:16:56,531 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:16:56] "[36mGET /cyberchef/images/cook_male-32x32.png HTTP/1.1[0m" 304 -
+2025-05-27 13:16:56,532 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:16:56] "[36mGET /cyberchef/assets/main.js HTTP/1.1[0m" 304 -
+2025-05-27 13:16:56,533 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:16:56] "[36mGET /cyberchef/assets/main.css HTTP/1.1[0m" 304 -
+2025-05-27 13:16:56,538 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:16:56] "[36mGET /cyberchef/images/fork_me.png HTTP/1.1[0m" 304 -
+2025-05-27 13:16:56,670 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:16:56] "[36mGET /cyberchef/assets/02aafe15b98928fdaa38.ttf HTTP/1.1[0m" 304 -
+2025-05-27 13:16:56,852 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:16:56] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 13:17:19,759 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:17:19] "GET /tools/cyberchef HTTP/1.1" 200 -
+2025-05-27 13:17:19,791 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:17:19] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 13:17:19,817 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:17:19] "[36mGET /cyberchef/ HTTP/1.1[0m" 304 -
+2025-05-27 13:17:19,837 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:17:19] "[36mGET /cyberchef/images/cook_male-32x32.png HTTP/1.1[0m" 304 -
+2025-05-27 13:17:19,837 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:17:19] "[36mGET /cyberchef/assets/main.css HTTP/1.1[0m" 304 -
+2025-05-27 13:17:19,838 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:17:19] "[36mGET /cyberchef/images/cyberchef-128x128.png HTTP/1.1[0m" 304 -
+2025-05-27 13:17:19,839 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:17:19] "[36mGET /cyberchef/assets/main.js HTTP/1.1[0m" 304 -
+2025-05-27 13:17:19,853 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:17:19] "[36mGET /cyberchef/images/fork_me.png HTTP/1.1[0m" 304 -
+2025-05-27 13:17:19,973 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:17:19] "[36mGET /cyberchef/assets/02aafe15b98928fdaa38.ttf HTTP/1.1[0m" 304 -
+2025-05-27 13:17:20,142 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:17:20] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 13:17:38,692 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:17:38] "GET / HTTP/1.1" 200 -
+2025-05-27 13:17:38,724 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:17:38] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 13:17:38,796 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:17:38] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 13:18:16,151 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:18:16] "GET /tools/cyberchef HTTP/1.1" 200 -
+2025-05-27 13:18:16,203 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:18:16] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 13:18:16,235 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:18:16] "[36mGET /cyberchef/ HTTP/1.1[0m" 304 -
+2025-05-27 13:18:16,282 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:18:16] "[36mGET /cyberchef/assets/main.css HTTP/1.1[0m" 304 -
+2025-05-27 13:18:16,289 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:18:16] "[36mGET /cyberchef/assets/main.js HTTP/1.1[0m" 304 -
+2025-05-27 13:18:16,305 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:18:16] "[36mGET /cyberchef/images/cook_male-32x32.png HTTP/1.1[0m" 304 -
+2025-05-27 13:18:16,307 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:18:16] "[36mGET /cyberchef/images/cyberchef-128x128.png HTTP/1.1[0m" 304 -
+2025-05-27 13:18:16,310 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:18:16] "[36mGET /cyberchef/images/fork_me.png HTTP/1.1[0m" 304 -
+2025-05-27 13:18:16,456 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:18:16] "[36mGET /cyberchef/assets/02aafe15b98928fdaa38.ttf HTTP/1.1[0m" 304 -
+2025-05-27 13:18:16,706 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:18:16] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 13:18:38,365 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:18:38] "GET / HTTP/1.1" 200 -
+2025-05-27 13:18:38,394 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:18:38] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 13:18:38,482 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:18:38] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 13:18:50,227 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:18:50] "GET /tools/cyberchef HTTP/1.1" 200 -
+2025-05-27 13:18:50,266 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:18:50] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 13:18:50,290 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:18:50] "[36mGET /cyberchef/ HTTP/1.1[0m" 304 -
+2025-05-27 13:18:50,319 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:18:50] "[36mGET /cyberchef/assets/main.css HTTP/1.1[0m" 304 -
+2025-05-27 13:18:50,321 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:18:50] "[36mGET /cyberchef/assets/main.js HTTP/1.1[0m" 304 -
+2025-05-27 13:18:50,326 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:18:50] "[36mGET /cyberchef/images/cyberchef-128x128.png HTTP/1.1[0m" 304 -
+2025-05-27 13:18:50,326 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:18:50] "[36mGET /cyberchef/images/cook_male-32x32.png HTTP/1.1[0m" 304 -
+2025-05-27 13:18:50,344 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:18:50] "[36mGET /cyberchef/images/fork_me.png HTTP/1.1[0m" 304 -
+2025-05-27 13:18:50,492 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:18:50] "[36mGET /cyberchef/assets/02aafe15b98928fdaa38.ttf HTTP/1.1[0m" 304 -
+2025-05-27 13:18:50,690 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:18:50] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 13:19:44,175 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:19:44] "GET / HTTP/1.1" 200 -
+2025-05-27 13:19:44,212 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:19:44] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 13:19:44,293 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:19:44] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 13:20:04,934 - app.services.ip_service - ERROR - AlienVault OTX error for section vpn: 404 Client Error: Not Found for url: https://otx.alienvault.com/api/v1/indicators/IPv4/8.8.8.8/vpn
+2025-05-27 13:20:05,997 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:20:05] "POST /analyze HTTP/1.1" 200 -
+2025-05-27 13:20:06,025 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:20:06] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 13:20:06,132 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:20:06] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 13:20:15,404 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:20:15] "GET / HTTP/1.1" 200 -
+2025-05-27 13:20:15,463 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:20:15] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 13:20:15,509 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:20:15] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 13:20:24,825 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:20:24] "POST /analyze HTTP/1.1" 200 -
+2025-05-27 13:20:24,875 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:20:24] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 13:20:24,966 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:20:24] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 13:20:41,726 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:20:41] "POST /analyze HTTP/1.1" 200 -
+2025-05-27 13:20:41,757 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:20:41] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 13:20:41,831 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:20:41] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 13:20:49,724 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:20:49] "GET / HTTP/1.1" 200 -
+2025-05-27 13:20:49,756 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:20:49] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 13:20:49,834 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:20:49] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 13:24:04,069 - werkzeug - INFO -  * Detected change in '/Users/zmckone/Desktop/NexusTrace/app/services/url_service.py', reloading
+2025-05-27 13:24:04,198 - werkzeug - INFO -  * Restarting with stat
+2025-05-27 13:24:05,028 - werkzeug - WARNING -  * Debugger is active!
+2025-05-27 13:24:05,040 - werkzeug - INFO -  * Debugger PIN: 242-967-145
+2025-05-27 13:24:09,104 - werkzeug - INFO -  * Detected change in '/Users/zmckone/Desktop/NexusTrace/app/services/url_service.py', reloading
+2025-05-27 13:24:09,195 - werkzeug - INFO -  * Restarting with stat
+2025-05-27 13:24:09,720 - werkzeug - WARNING -  * Debugger is active!
+2025-05-27 13:24:09,731 - werkzeug - INFO -  * Debugger PIN: 242-967-145
+2025-05-27 13:26:17,920 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-05-27 13:26:17,921 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-27 13:26:17,921 - werkzeug - INFO -  * Restarting with stat
+2025-05-27 13:26:18,544 - werkzeug - WARNING -  * Debugger is active!
+2025-05-27 13:26:18,554 - werkzeug - INFO -  * Debugger PIN: 242-967-145
+2025-05-27 13:26:20,558 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:26:20] "GET / HTTP/1.1" 200 -
+2025-05-27 13:26:20,587 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:26:20] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 13:26:20,748 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:26:20] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 13:26:55,855 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:26:55] "POST /analyze HTTP/1.1" 200 -
+2025-05-27 13:26:55,903 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:26:55] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 13:26:55,986 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:26:55] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 13:49:41,443 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-05-27 13:49:41,443 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-27 13:49:41,444 - werkzeug - INFO -  * Restarting with stat
+2025-05-27 13:49:41,983 - werkzeug - WARNING -  * Debugger is active!
+2025-05-27 13:49:41,996 - werkzeug - INFO -  * Debugger PIN: 242-967-145
+2025-05-27 13:49:45,449 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:49:45] "GET / HTTP/1.1" 200 -
+2025-05-27 13:49:45,503 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:49:45] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 13:49:45,694 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:49:45] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 13:50:31,052 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:50:31] "POST /analyze HTTP/1.1" 200 -
+2025-05-27 13:50:31,118 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:50:31] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 13:50:32,094 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:50:32] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 13:52:00,412 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-05-27 13:52:00,412 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-27 13:52:00,413 - werkzeug - INFO -  * Restarting with stat
+2025-05-27 13:52:00,977 - werkzeug - WARNING -  * Debugger is active!
+2025-05-27 13:52:00,988 - werkzeug - INFO -  * Debugger PIN: 242-967-145
+2025-05-27 13:52:03,363 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:52:03] "GET / HTTP/1.1" 200 -
+2025-05-27 13:52:03,423 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:52:03] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 13:52:03,543 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:52:03] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 13:52:23,345 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x10adfe7b0>, 'Connection to madisonhospital.org timed out. (connect timeout=10)')': /
+2025-05-27 13:52:35,356 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x10ae41310>, 'Connection to madisonhospital.org timed out. (connect timeout=10)')': /
+2025-05-27 13:52:49,365 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x10ae40190>, 'Connection to madisonhospital.org timed out. (connect timeout=10)')': /
+2025-05-27 13:52:59,370 - root - ERROR - Error analyzing URL: HTTPSConnectionPool(host='madisonhospital.org', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x10ae402d0>, 'Connection to madisonhospital.org timed out. (connect timeout=10)'))
+2025-05-27 13:52:59,428 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:52:59] "POST /analyze HTTP/1.1" 200 -
+2025-05-27 13:52:59,482 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:52:59] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 13:52:59,543 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:52:59] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 13:53:32,856 - root - ERROR - Error analyzing URL: Invalid URL 'madisonhealth.org': No scheme supplied. Perhaps you meant https://madisonhealth.org?
+2025-05-27 13:53:32,857 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:53:32] "POST /analyze HTTP/1.1" 200 -
+2025-05-27 13:53:32,888 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:53:32] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 13:53:32,935 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:53:32] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 13:54:23,785 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:54:23] "POST /analyze HTTP/1.1" 200 -
+2025-05-27 13:54:23,835 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:54:23] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 13:54:25,081 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:54:25] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 14:01:49,677 - app.services.ip_service - ERROR - AlienVault OTX error for section vpn: 404 Client Error: Not Found for url: https://otx.alienvault.com/api/v1/indicators/IPv4/8.8.8.8/vpn
+2025-05-27 14:01:51,199 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 14:01:51] "POST /analyze HTTP/1.1" 200 -
+2025-05-27 14:01:51,238 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 14:01:51] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 14:01:51,356 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 14:01:51] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 14:02:11,972 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 14:02:11] "POST /analyze HTTP/1.1" 200 -
+2025-05-27 14:02:12,015 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 14:02:12] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 14:02:12,058 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 14:02:12] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 14:02:14,426 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 14:02:14] "GET / HTTP/1.1" 200 -
+2025-05-27 14:02:14,461 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 14:02:14] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 14:02:14,532 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 14:02:14] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 14:02:24,887 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 14:02:24] "GET / HTTP/1.1" 200 -
+2025-05-27 14:02:24,920 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 14:02:24] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 14:02:24,976 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 14:02:24] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 14:10:17,393 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 14:10:17] "POST /analyze HTTP/1.1" 200 -
+2025-05-27 14:10:17,481 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 14:10:17] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 14:10:18,377 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 14:10:18] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
+2025-05-27 14:15:18,211 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 14:15:18] "GET / HTTP/1.1" 200 -
+2025-05-27 14:15:18,283 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 14:15:18] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-27 14:15:18,461 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 14:15:18] "[36mGET /static/favicon_io/site.webmanifest HTTP/1.1[0m" 304 -
