@@ -1,4 +1,4 @@
-#!/Users/zmckone/Desktop/Escaltion Dashboard/NexusTrace/venv/bin/python3.13
+#!/home/zack/Documents/GitHub/NexusTrace/venv/bin/python3
 
 ##############################################################################
 #
