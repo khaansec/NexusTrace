@@ -1,0 +1,12 @@
+# .publicignore
+#
+# Files removed before syncing to the public showcase repo.
+# This file is documentation only — the actual exclusions live in
+# .github/workflows/sync-public.yml
+#
+# These files are kept in the private dev repo but never pushed public:
+
+CLAUDE.md                    # Personal AI workflow instructions
+scripts/cloudflare_admin.py  # Domain-specific Cloudflare admin CLI
+docs/                        # Deployment-specific docs (contain personal domain)
+data/                        # Runtime data (api_keys.json, mmdb files)
