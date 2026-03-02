@@ -3,7 +3,7 @@
 NexusTrace — Cloudflare Administration CLI
 ==========================================
 
-Manages Cloudflare-side configuration for cloud.nexustrace.net.
+Manages Cloudflare-side configuration for your NexusTrace deployment.
 
 Usage:
     python3 scripts/cloudflare_admin.py <command> [args]
@@ -12,7 +12,7 @@ Commands:
     status                   Show zone overview (security level, plan, etc.)
 
     dns list                 List all DNS records for the zone
-    dns sync                 Update the 'cloud' A record to the current public IP
+    dns sync                 Update the subdomain A record to the current public IP
                              (useful when your home/office IP changes)
 
     waf list                 List existing custom WAF firewall rules
@@ -37,8 +37,9 @@ Commands:
 Required environment variables (add to .env):
     CF_API_TOKEN     Cloudflare API token with Zone:Read, DNS:Edit,
                      Firewall Rules:Edit, Zone Settings:Edit permissions
-    CF_ZONE_ID       Zone ID for nexustrace.net (found in Cloudflare dashboard
-                     → nexustrace.net → Overview → right sidebar)
+    CF_ZONE_ID       Zone ID for your domain (found in Cloudflare dashboard
+                     → your domain → Overview → right sidebar)
+    CF_BASE_DOMAIN   Your root domain (e.g. example.com)
 
 Optional:
     CF_SUBDOMAIN     The proxied subdomain to manage (default: cloud)
@@ -69,9 +70,10 @@ if _env_path.exists():
             os.environ.setdefault(k.strip(), v.strip())
 
 
-CF_API_TOKEN = os.getenv('CF_API_TOKEN', '')
-CF_ZONE_ID   = os.getenv('CF_ZONE_ID', '')
-CF_SUBDOMAIN = os.getenv('CF_SUBDOMAIN', 'cloud')
+CF_API_TOKEN  = os.getenv('CF_API_TOKEN', '')
+CF_ZONE_ID    = os.getenv('CF_ZONE_ID', '')
+CF_SUBDOMAIN  = os.getenv('CF_SUBDOMAIN', 'cloud')
+CF_BASE_DOMAIN = os.getenv('CF_BASE_DOMAIN', '')
 
 BASE_URL = 'https://api.cloudflare.com/client/v4'
 
@@ -123,9 +125,19 @@ def _require_zone():
             "Add it to your .env file:\n"
             "  CF_ZONE_ID=your-zone-id\n\n"
             "Find it in the Cloudflare dashboard:\n"
-            "  nexustrace.net → Overview → right sidebar → Zone ID"
+            "  your domain → Overview → right sidebar → Zone ID"
         )
     return CF_ZONE_ID
+
+
+def _require_base_domain():
+    if not CF_BASE_DOMAIN:
+        sys.exit(
+            "CF_BASE_DOMAIN is not set.\n"
+            "Add your root domain to your .env file:\n"
+            "  CF_BASE_DOMAIN=example.com"
+        )
+    return CF_BASE_DOMAIN
 
 
 def _get(path, params=None):
@@ -225,18 +237,20 @@ def cmd_dns_list():
 
 
 def cmd_dns_sync():
-    """Update the cloud A record to the current public IP."""
+    """Update the subdomain A record to the current public IP."""
     zone_id = _require_zone()
+    base_domain = _require_base_domain()
     subdomain = CF_SUBDOMAIN
+    fqdn = f'{subdomain}.{base_domain}'
     public_ip = _get_public_ip()
     print(f"Current public IP: {public_ip}")
 
     # Find the record
-    records = _get(f'/zones/{zone_id}/dns_records', params={'type': 'A', 'name': f'{subdomain}.nexustrace.net'})['result']
+    records = _get(f'/zones/{zone_id}/dns_records', params={'type': 'A', 'name': fqdn})['result']
 
     if not records:
         # Create it
-        print(f"No A record found for {subdomain}.nexustrace.net — creating it...")
+        print(f"No A record found for {fqdn} — creating it...")
         result = _post(f'/zones/{zone_id}/dns_records', {
             'type': 'A',
             'name': subdomain,
@@ -253,7 +267,7 @@ def cmd_dns_sync():
         old_ip = record['content']
         result = _patch(f'/zones/{zone_id}/dns_records/{record["id"]}', {
             'type': 'A',
-            'name': subdomain,
+            'name': fqdn,
             'content': public_ip,
             'ttl': 1,
             'proxied': True,
@@ -350,13 +364,14 @@ def cmd_ratelimit_setup():
     values in the script to match your actual usage patterns.
     """
     zone_id = _require_zone()
+    base_domain = _require_base_domain()
 
     rules_to_create = [
         {
             'description': 'NexusTrace: Enrichment API rate limit',
             'match': {
                 'request': {
-                    'url': '*.nexustrace.net/api/enrich/*',
+                    'url': f'*.{base_domain}/api/enrich/*',
                     'schemes': ['HTTP', 'HTTPS'],
                     'methods': ['POST'],
                 }
@@ -377,7 +392,7 @@ def cmd_ratelimit_setup():
             'description': 'NexusTrace: General site rate limit',
             'match': {
                 'request': {
-                    'url': '*.nexustrace.net/*',
+                    'url': f'*.{base_domain}/*',
                     'schemes': ['HTTP', 'HTTPS'],
                     'methods': ['GET', 'POST'],
                 }
